@@ -5,3 +5,5 @@ author:hpw
 中文版
 不同
 撤销修改
+Creating a new branch is quick.
+现在学习分支管理
